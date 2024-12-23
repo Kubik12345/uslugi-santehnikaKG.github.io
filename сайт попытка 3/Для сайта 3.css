@@ -1,0 +1,7 @@
+.center {
+       font-family: 'Montserrat', sans-serif; /* Замените 'Roboto' на ваш шрифт */
+       font-size: 24px; /* Измените размер шрифта по желанию */
+       font-weight: bold; /* Жирный шрифт */
+       text-align: center;
+   }
+<ul><li>Диагностика и выезд бесплатно</li><li>Выезд за 40 минут</li><li>Гарантия<br />от 6 месяцев</li><li>Любой ремонт<br />за 1 день</li></ul>
